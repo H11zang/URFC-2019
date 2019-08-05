@@ -3,7 +3,11 @@
 ![image](https://github.com/H11zang/URFC-2019/blob/master/1.png)
 
 复赛代码组成主要分为三部分
+
 1、访问数据部分（主要见visit中的readme）
+
 2、图像部分（见image中的两个readme）
+
 3、融合部分（同在visit中的readme中）
+
 实验和总结更新在blog中，感谢大家指导。
